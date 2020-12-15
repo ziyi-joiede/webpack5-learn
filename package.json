@@ -1,0 +1,28 @@
+{
+  "name": "webpack5-learn",
+  "version": "1.0.0",
+  "description": "webpack5-learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyi-joiede/webpack5-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziyi-joiede/webpack5-learn/issues"
+  },
+  "homepage": "https://github.com/ziyi-joiede/webpack5-learn#readme",
+  "devDependencies": {
+    "webpack": "^5.10.3",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0",
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0",
+    "file-loader": "^6.2.0"
+  }
+}
